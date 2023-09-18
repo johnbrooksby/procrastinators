@@ -1,0 +1,25 @@
+html {
+  overflow-x: hidden;
+}
+
+body {
+  min-width: 100vw;
+  min-height: 80vh - 50px;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  /* gap: 35vh; */
+  background-color: black;
+  padding-top: 20vh;
+}
+
+h1, h3 {
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+h1 {
+  font-size: 30pt;
+}
